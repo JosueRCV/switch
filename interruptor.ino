@@ -11,7 +11,7 @@ int Waiting_Time = 500;
 const int LED = 2; //GPIO 2 corresponde al LED integrado de las placas NodeMCU - Wemos D1  
 int b1;
 int b2;
-int key=0;
+//int key=0;
 String post = "http://104.131.182.170:8000/post";// Enlace a la API
 
 
